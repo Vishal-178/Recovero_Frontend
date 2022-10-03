@@ -1,4 +1,4 @@
-# Recovero Project
+# Recovero Project Frontend
 
 ## Folder Structure
 
